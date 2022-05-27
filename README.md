@@ -1,3 +1,1 @@
-# Beautifulsoup
-Web sraping
-Python
+# web-scraping
